@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-23",
+  "browser": "151.0.7922.34",
+  "fieldsTested": 59,
+  "segmentsTested": 224,
+  "checks": [
+    "HTML autonome ouvert via file:// hors connexion ; dix blocs, aucun libellé de fiche vide",
+    "Dix blocs et 59 champs : clics réels, synchronisation de la fiche et retours",
+    "Cercles activés au clavier par Entrée et Espace",
+    "59 fiches détaillées et leurs sources ; 224 segments activés ; 431 sous-zones affichées en mode expert",
+    "Copie et collage : représentation pédagogique de 214 exacte",
+    "Recherche par numéro, intitulé, fonction, accents et sous-zone : accès direct à la fiche",
+    "Quiz : corrections des réponses fausse et juste",
+    "Réduction des animations effectivement appliquée",
+    "59 fiches et trois autres vues : absence de débordement à 390, 768, 1024 et 1440 px",
+    "Navigation mobile : fiche nationale 995 et avertissement Koha",
+    "Version maintenable ouverte localement sans serveur"
+  ],
+  "errors": [],
+  "externalRequests": [],
+  "limitations": [
+    "Pas un audit RGAA",
+    "Les tests de données vérifient la cohérence ; ils ne certifient pas les règles de catalogage",
+    "Sources et éditions indiquées ; autorités fictives non validées"
+  ]
+}

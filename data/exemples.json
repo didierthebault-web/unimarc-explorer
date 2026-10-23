@@ -1,0 +1,477 @@
+{
+  "status": "Exemples pédagogiques réduits ; aucune notice complète prête à importer",
+  "examples": [
+    {
+      "tag": "001",
+      "raw": "001 EX-000001",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "003",
+      "raw": "003 http://catalogue.bnf.fr/ark:/12148/cb375475483",
+      "note": "Exemple d’ARK repris du document BnF, page 10.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "010",
+      "raw": "010 ## $a9782123456780$bBroché",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "011",
+      "raw": "011 0# $a1234-5679",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "017",
+      "raw": "017 70 $a10.0000/exemple.2025.1$2doi",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.transition-bibliographique.fr/B017_fre",
+      "version": "IFLA 2017 · traduction CfU 2019",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "035",
+      "raw": "035 ## $a(EX)EX-000001",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "073",
+      "raw": "073 #0 $a9782123456780",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "100",
+      "raw": "100 ## $a20261023d2025####m##y0frey0103####ba",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "101",
+      "raw": "101 0# $afre",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "102",
+      "raw": "102 ## $aFR",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "105",
+      "raw": "105 ## $ay###a###001ya",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc. Il s’agit d’un exemple autonome de codage, indépendant du livre fictif des autres fiches.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "106",
+      "raw": "106 ## $ar",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "200",
+      "raw": "200 1# $aLe catalogage aujourd’hui$eMéthodes et pratiques$fMarie Martin",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "205",
+      "raw": "205 ## $a2e édition revue et augmentée",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "210",
+      "raw": "210 ## $aParis$cÉditions Exemple$d2025",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "214",
+      "raw": "214 #0 $aParis$cÉditions Exemple$d2025",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "215",
+      "raw": "215 ## $a1 vol. (184 p.)$cill.$d24 cm",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "225",
+      "raw": "225 1# $aAteliers du catalogage$v3",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "300",
+      "raw": "300 ## $aLes exemples de cet ouvrage sont fictifs",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "304",
+      "raw": "304 ## $aTitre relevé sur la page de titre",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "305",
+      "raw": "305 ## $aÉdition revue de la publication parue en 2022",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "317",
+      "raw": "317 ## $aEx-libris manuscrit : Marie Martin$5Bibliothèque Exemple:EX-001",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.transition-bibliographique.fr/B317_fre",
+      "version": "IFLA 2008 · traduction CfU 2010",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "320",
+      "raw": "320 ## $aBibliographie p. 171-178. Index",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.transition-bibliographique.fr/B320_fre",
+      "version": "IFLA 2008 · traduction CfU 2011",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "327",
+      "raw": "327 1# $aComprendre la notice ; Décrire la publication ; Créer les accès",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "330",
+      "raw": "330 ## $aUn guide fictif pour apprendre à lire et construire une notice bibliographique.",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "359",
+      "raw": "359 1# $bComprendre la notice$p9$bDécrire la publication$p45",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.transition-bibliographique.fr/B359_fre",
+      "version": "Recommandation nationale CfU adoptée le 6 décembre 2002",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "410",
+      "raw": "410 #0 $tAteliers du catalogage$v3",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "451",
+      "raw": "451 #1 $tLe catalogage aujourd’hui$d2022$ePremière édition",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "452",
+      "raw": "452 #1 $tLe catalogage aujourd’hui$p1 ressource en ligne",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "461",
+      "raw": "461 #0 $tManuel du catalogage$v1",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "463",
+      "raw": "463 #1 $tLe catalogage aujourd’hui$v1",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "464",
+      "raw": "464 #1 $tDécrire les titres$fMarie Martin",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "500",
+      "raw": "500 10 $aTraité du catalogage$mfrançais",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "510",
+      "raw": "510 1# $aCataloguing today$zeng",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "512",
+      "raw": "512 1# $aApprendre le catalogage",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "517",
+      "raw": "517 1# $aGuide pratique du catalogage",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "540",
+      "raw": "540 1# $aAtlas pédagogique UNIMARC",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "600",
+      "raw": "600 #| $aMartin$bMarie$2rameau",
+      "note": "Exemple réduit de syntaxe. Les formes et les liens d’autorité ne sont pas validés dans un référentiel ; à contrôler avant tout usage réel.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "601",
+      "raw": "601 || $aAssociation Exemple$2rameau",
+      "note": "Exemple réduit de syntaxe. Les formes et les liens d’autorité ne sont pas validés dans un référentiel ; à contrôler avant tout usage réel.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "602",
+      "raw": "602 ## $aFamille Exemple$2rameau",
+      "note": "Exemple réduit de syntaxe. Les formes et les liens d’autorité ne sont pas validés dans un référentiel ; à contrôler avant tout usage réel.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "604",
+      "raw": "604 ## $aMartin$bMarie$tTraité du catalogage$2rameau",
+      "note": "Exemple réduit de syntaxe. Les formes et les liens d’autorité ne sont pas validés dans un référentiel ; à contrôler avant tout usage réel.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "605",
+      "raw": "605 ## $aTraité du catalogage$2rameau",
+      "note": "Exemple réduit de syntaxe. Les formes et les liens d’autorité ne sont pas validés dans un référentiel ; à contrôler avant tout usage réel.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "606",
+      "raw": "606 ## $aCatalogage$2rameau",
+      "note": "Exemple réduit de syntaxe. Les formes et les liens d’autorité ne sont pas validés dans un référentiel ; à contrôler avant tout usage réel.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "607",
+      "raw": "607 ## $aParis (France)$2rameau",
+      "note": "Exemple réduit de syntaxe. Les formes et les liens d’autorité ne sont pas validés dans un référentiel ; à contrôler avant tout usage réel.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "608",
+      "raw": "608 ## $aExemple de genre$2frTAV",
+      "note": "Exemple réduit de syntaxe. Les formes et les liens d’autorité ne sont pas validés dans un référentiel ; à contrôler avant tout usage réel.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "610",
+      "raw": "610 0# $aformation au catalogage",
+      "note": "Exemple réduit de syntaxe. Les formes et les liens d’autorité ne sont pas validés dans un référentiel ; à contrôler avant tout usage réel.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "700",
+      "raw": "700 #| $aMartin$bMarie",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "701",
+      "raw": "701 #| $aDurand$bAlex",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "702",
+      "raw": "702 #| $aPetit$bCamille",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "710",
+      "raw": "710 || $aAssociation Exemple",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "711",
+      "raw": "711 || $aInstitut Exemple",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "712",
+      "raw": "712 02 $aAtelier Exemple",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "801",
+      "raw": "801 #0 $aFR$bEXEMPLE$c20261023",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "830",
+      "raw": "830 ## $aVérifier la date lors de la réception du dernier volume",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.transition-bibliographique.fr/B830_fre",
+      "version": "IFLA 2008 · traduction CfU 2010",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "850",
+      "raw": "850 ## $aBibliothèque Exemple",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.transition-bibliographique.fr/B850_fre",
+      "version": "IFLA 2008 · traduction CfU 2010",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "852",
+      "raw": "852 ## $aBibliothèque Exemple$bSalle de formation$j025.3 MAR",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc. Les libellés et codes de sous-zones sont ceux d’UNIMARC, pas ceux de MARC 21.",
+      "source": "https://www.transition-bibliographique.fr/B852_fre",
+      "version": "IFLA 2008 · traduction CfU 2010",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "856",
+      "raw": "856 4# $uhttps://example.org/ressource/ex-001$qapplication/pdf",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "930",
+      "raw": "930 ## $5340325101:EX-001$b340325101$a025.3 MAR$jg",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.transition-bibliographique.fr/Description_FormatUnimarcEchange_Exemplaire",
+      "version": "CfU · Données d’exemplaire, version 3, mai 2022, pages 29–30",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "995",
+      "raw": "995 ## $aBibliothèque Exemple$fEX000001$k025.3 MAR$op",
+      "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
+      "source": "https://www.transition-bibliographique.fr/wp-content/uploads/2020/10/unimarc-bibliographique-995.pdf",
+      "version": "Recommandation 995 · version 3, décembre 2005 ; correspondances CfU 2022 p. 66–67",
+      "consulted": "2026-10-23"
+    }
+  ]
+}

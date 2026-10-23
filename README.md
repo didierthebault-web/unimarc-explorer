@@ -50,4 +50,3 @@ Voir `docs/TESTS.md`, `docs/tests.json` et `docs/tests-donnees.json` pour le bil
 Le document BnF est un **profil de diffusion issu d’INTERMARC**, distinct du manuel international. Ses valeurs d’indicateurs, caractères de remplissage et adaptations sont identifiés. Lorsqu’il ne précise pas l’obligation ou la répétabilité, cette absence est signalée au lieu de supposer une règle. Des compléments CfU datés sont utilisés pour 200 et 214 sur ces points.
 
 La présence d’une fiche documentée ne certifie pas sa conformité à toutes les éditions du format ni aux pratiques de tous les réseaux. Les grilles locales Koha ne sont pas définies par la BnF. Une comparaison exhaustive avec la dernière édition internationale et une validation professionnelle indépendante restent possibles. L’interface ne revendique ni affiliation BnF ni certification DSFR ou RGAA.
-

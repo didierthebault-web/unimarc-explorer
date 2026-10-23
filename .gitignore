@@ -1,0 +1,19 @@
+# Documents externes et extractions de travail : conserver leurs liens officiels.
+docs/*.pdf
+docs/bnf-extraction.txt
+docs/bnf-pages.json
+docs/sources/
+
+# Dépendances et sorties générées pour l’hébergement.
+node_modules/
+_site/
+.venv/
+__pycache__/
+*.zip
+.DS_Store
+Thumbs.db
+
+# Configuration privée locale.
+.env
+.env.*
+!.env.example

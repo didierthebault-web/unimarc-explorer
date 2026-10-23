@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-23",
+  "fields": 59,
+  "bnf": 50,
+  "supplements": 9,
+  "subfields": 431,
+  "checks": [
+    "schema et absence de fiches vides",
+    "provenance des 59 fiches",
+    "coherence des sous-zones des exemples",
+    "longueurs fixes 100/105/106",
+    "particularites BnF des indicateurs",
+    "cote UNIMARC 852 en $j",
+    "divergence 930 preservee",
+    "cle ISBN pedagogique"
+  ],
+  "errors": []
+}
