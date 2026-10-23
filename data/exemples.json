@@ -18,6 +18,14 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "005",
+      "raw": "005 20261023120000.0",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/B005_fre",
+      "version": "IFLA 2008 ; traduction CfU 2010",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "010",
       "raw": "010 ## $a9782123456780$bBroché",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
@@ -34,6 +42,22 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "013",
+      "raw": "013 ## $a9790000000001",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "016",
+      "raw": "016 ## $aFREX12500001",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "017",
       "raw": "017 70 $a10.0000/exemple.2025.1$2doi",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
@@ -42,11 +66,51 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "020",
+      "raw": "020 ## $aFR$bEX-2025-001",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "021",
+      "raw": "021 ## $aFR$bEX-2025-001",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "022",
+      "raw": "022 ## $aFR$bEX-2025-12",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "033",
+      "raw": "033 ## $ahttps://catalogue.example.org/ark:/99999/ex-001",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/B033_fre",
+      "version": "IFLA 2012 ; traduction CfU 2019",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "035",
       "raw": "035 ## $a(EX)EX-000001",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
       "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
       "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "071",
+      "raw": "071 01 $aEX-2025-001$bÉditions Sonores Exemple",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
       "consulted": "2026-10-23"
     },
     {
@@ -98,6 +162,126 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "110",
+      "raw": "110 ## $aa||||||||||",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "115",
+      "raw": "115 ## $ac050||||||||||||||||",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "116",
+      "raw": "116 ## $ab|||||||||||||||||",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "117",
+      "raw": "117 ## $aaq|||||||",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/B117_fre",
+      "version": "IFLA 2008 ; traduction CfU 2010",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "120",
+      "raw": "120 ## $ab||||||||||||",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "121",
+      "raw": "121 ## $aa||||||||",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "123",
+      "raw": "123 0# $aa$b50000",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "125",
+      "raw": "125 ## $aay",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "126",
+      "raw": "126 ## $aag|||||||||||||",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "127",
+      "raw": "127 ## $a005000",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "128",
+      "raw": "128 ## $dc",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "135",
+      "raw": "135 ## $adr|||||||||||",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "181",
+      "raw": "181 #0 $ai4$bxxxe##",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "182",
+      "raw": "182 #0 $an",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "183",
+      "raw": "183 #1 $anc$2rdacarrier",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/B183_fre",
+      "version": "IFLA 2016 ; traduction CfU 2019",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "200",
       "raw": "200 1# $aLe catalogage aujourd’hui$eMéthodes et pratiques$fMarie Martin",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
@@ -106,11 +290,43 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "203",
+      "raw": "203 ## $aTexte$bvisuel$csans médiation",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/B203_eng",
+      "version": "IFLA, édition en ligne 1.1.0, 2024 (anglais)",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "205",
       "raw": "205 ## $a2e édition revue et augmentée",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
       "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
       "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "206",
+      "raw": "206 0# $b1:50 000",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "207",
+      "raw": "207 #0 $aN° 1 (janvier 2025)-",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "208",
+      "raw": "208 ## $aPartition d’orchestre",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
       "consulted": "2026-10-23"
     },
     {
@@ -146,11 +362,43 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "231",
+      "raw": "231 ## $aFichier texte$bEPUB$c3.0",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/B231_fre",
+      "version": "IFLA 2018 ; traduction CfU 2022, intitulé provisoire",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "283",
+      "raw": "283 ## $avolume$2rdacarrier",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/B283_eng",
+      "version": "IFLA, édition en ligne 1.1.0, 2024 (anglais)",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "300",
       "raw": "300 ## $aLes exemples de cet ouvrage sont fictifs",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
       "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
       "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "301",
+      "raw": "301 ## $aL’ISBN imprimé sur la couverture est erroné",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/B301_fre",
+      "version": "IFLA 2008 ; traduction CfU 2010",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "302",
+      "raw": "302 ## $aTexte en français ; résumés en anglais",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
       "consulted": "2026-10-23"
     },
     {
@@ -170,6 +418,46 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "306",
+      "raw": "306 ## $aL’adresse de l’éditeur varie au cours de la publication",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "307",
+      "raw": "307 ## $aComprend une carte dépliante en fin de volume",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "308",
+      "raw": "308 ## $aLe titre de la collection varie sur la couverture",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "312",
+      "raw": "312 ## $aTitre de couverture : Apprendre le catalogage",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "316",
+      "raw": "316 ## $aExemplaire incomplet : pages 15-16 manquantes$5Bibliothèque Exemple:EX-001",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/B316_fre",
+      "version": "IFLA 2008 ; traduction CfU 2010",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "317",
       "raw": "317 ## $aEx-libris manuscrit : Marie Martin$5Bibliothèque Exemple:EX-001",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
@@ -186,11 +474,51 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "322",
+      "raw": "322 ## $aRéalisation : Camille Petit ; scénario : Alex Durand",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "323",
+      "raw": "323 ## $aInterprètes : Camille Petit, Alex Durand",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "325",
+      "raw": "325 11 $bReproduction numérique$dBibliothèque Exemple$e2025$uhttps://example.org/reproduction/ex-001",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "326",
+      "raw": "326 ## $aMensuel$b2025-",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "327",
       "raw": "327 1# $aComprendre la notice ; Décrire la publication ; Créer les accès",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
       "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
       "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "328",
+      "raw": "328 #0 $bThèse de doctorat$cSciences de l’information$d2025$eUniversité Exemple",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
       "consulted": "2026-10-23"
     },
     {
@@ -202,6 +530,30 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "333",
+      "raw": "333 ## $aÀ partir de 12 ans",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "334",
+      "raw": "334 ## $aPrix pédagogique Exemple 2025",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "337",
+      "raw": "337 ## $aLecteur compatible EPUB 3 requis",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "359",
       "raw": "359 1# $bComprendre la notice$p9$bDécrire la publication$p45",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
@@ -210,11 +562,67 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "371",
+      "raw": "371 ## $aConsultation sur place ; reproduction soumise à autorisation",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "410",
       "raw": "410 #0 $tAteliers du catalogage$v3",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
       "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
       "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "411",
+      "raw": "411 #1 $tAteliers du catalogage. Série Formation",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "421",
+      "raw": "421 #1 $tBulletin du catalogage. Supplément pratique",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "422",
+      "raw": "422 #1 $tBulletin du catalogage",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "423",
+      "raw": "423 #1 $tExercices de catalogage$fCamille Petit",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "430",
+      "raw": "430 #1 $tBulletin des pratiques documentaires",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "440",
+      "raw": "440 #1 $tRevue des pratiques documentaires",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
       "consulted": "2026-10-23"
     },
     {
@@ -231,6 +639,22 @@
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
       "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
       "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "454",
+      "raw": "454 #1 $tUnderstanding cataloguing",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "456",
+      "raw": "456 #1 $tLe catalogage aujourd’hui$uhttps://example.org/reproduction/ex-001",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
       "consulted": "2026-10-23"
     },
     {
@@ -282,6 +706,22 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "515",
+      "raw": "515 1# $aPratiques du catalogage",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "516",
+      "raw": "516 1# $aCatalogage pratique",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "517",
       "raw": "517 1# $aGuide pratique du catalogage",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
@@ -290,11 +730,35 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "530",
+      "raw": "530 0# $aBulletin du catalogage",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "531",
+      "raw": "531 ## $aBull. catalog.",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "540",
       "raw": "540 1# $aAtlas pédagogique UNIMARC",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
       "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
       "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "541",
+      "raw": "541 1# $aCataloguing today$zeng",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/B541_fre",
+      "version": "IFLA 2008 ; traduction CfU 2010",
       "consulted": "2026-10-23"
     },
     {
@@ -370,6 +834,38 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "660",
+      "raw": "660 ## $ae-fr---",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "675",
+      "raw": "675 ## $a025.3",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "676",
+      "raw": "676 ## $a025.3$v23",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "686",
+      "raw": "686 ## $aZ693$2lcc",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "700",
       "raw": "700 #| $aMartin$bMarie",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
@@ -391,6 +887,14 @@
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
       "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
       "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "703",
+      "raw": "703 #| $aMartin$bMarie$5Bibliothèque Exemple:EX-001",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
       "consulted": "2026-10-23"
     },
     {
@@ -418,11 +922,27 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "713",
+      "raw": "713 || $aAssociation Exemple$5Bibliothèque Exemple:EX-001",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "801",
       "raw": "801 #0 $aFR$bEXEMPLE$c20261023",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
       "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
       "version": "BnF · version 11.0 · septembre 2023",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "802",
+      "raw": "802 ## $a07",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.bnf.fr/sites/default/files/2023-10/UNIMARC_B.pdf",
+      "version": "BnF, profil de diffusion UNIMARC, version 11.0, 2023",
       "consulted": "2026-10-23"
     },
     {
@@ -458,11 +978,35 @@
       "consulted": "2026-10-23"
     },
     {
+      "tag": "915",
+      "raw": "915 ## $5340325101:EX-001$aINV-2025-001$f20250115",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/Description_FormatUnimarcEchange_Exemplaire",
+      "version": "CfU, recommandations françaises d’échange des données d’exemplaire, 2022",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "917",
+      "raw": "917 ## $5340325101:EX-001$aaaac",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/Description_FormatUnimarcEchange_Exemplaire",
+      "version": "CfU, recommandations françaises d’échange des données d’exemplaire, 2022",
+      "consulted": "2026-10-23"
+    },
+    {
       "tag": "930",
       "raw": "930 ## $5340325101:EX-001$b340325101$a025.3 MAR$jg",
       "note": "Exemple pédagogique fictif et réduit : illustration de syntaxe, pas une notice prête à importer. # représente un blanc dans cette présentation ; | est un caractère de remplissage, distinct du blanc.",
       "source": "https://www.transition-bibliographique.fr/Description_FormatUnimarcEchange_Exemplaire",
       "version": "CfU · Données d’exemplaire, version 3, mai 2022, pages 29–30",
+      "consulted": "2026-10-23"
+    },
+    {
+      "tag": "955",
+      "raw": "955 1# $5340325101:EX-001$r2020-2025",
+      "note": "Exemple réduit et pédagogique. Noms, numéros de gestion, titres et identifiants sont fictifs sauf indication explicite. # représente un blanc, | un caractère de remplissage. Aucun export ISO 2709 ni autorité validée n’est fourni.",
+      "source": "https://www.transition-bibliographique.fr/Description_FormatUnimarcEchange_Exemplaire",
+      "version": "CfU, recommandations françaises d’échange des données d’exemplaire, 2022",
       "consulted": "2026-10-23"
     },
     {
