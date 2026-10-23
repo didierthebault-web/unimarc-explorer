@@ -2,7 +2,7 @@
 
 59 fiches documentées, réparties dans les dix blocs. Référence principale : **Format UNIMARC des notices bibliographiques fournies par la BnF, version 11.0 (2023)**. Neuf zones absentes de ce document sont couvertes par des compléments officiels français, identifiés dans les fiches.
 
-La configuration GitHub Pages est prête sous `.github/workflows/pages.yml`. Voir [le guide de publication](docs/PUBLICATION-GITHUB.md). La publication n’est pas confirmée tant que le dépôt et le déploiement n’ont pas été créés et vérifiés.
+**Application en ligne : [UNIMARC Explorer](https://didierthebault-web.github.io/unimarc-explorer/)**. Publication et fonctionnement public vérifiés le 23 octobre 2026. Les modifications de la branche `main` sont publiées automatiquement par le workflow GitHub Pages ; voir [le guide de publication](docs/PUBLICATION-GITHUB.md).
 
 ## Utilisation
 
